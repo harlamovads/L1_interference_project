@@ -13,6 +13,7 @@
  - https://huggingface.co/Zlovoblachko/L1_Interference_6Tags
 
 Для получения доступа к моделям необходимо быть зарегистрированным на сайте huggingface.co. В случае отсутствия регистрации можно загрузить модели с Google Disk:
+
 Пять трансформеров (внутри папки можно выбрать одну из двух моделей: последнюю (model-last) или с наивысшим f-score (model-best). В тексте работы приведены результаты по model-best).
 
  - https://drive.google.com/drive/folders/10dqFG0AYhsug9aTz4y1bBBck0dbRCZWI?usp=drive_link
